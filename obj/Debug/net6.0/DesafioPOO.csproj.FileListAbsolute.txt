@@ -1,0 +1,14 @@
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net6.0\DesafioPOO.exe
+C:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net6.0\DesafioPOO.deps.json
+C:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net6.0\DesafioPOO.runtimeconfig.json
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net6.0\DesafioPOO.dll
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\bin\Debug\net6.0\DesafioPOO.pdb
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.AssemblyInfoInputs.cache
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.AssemblyInfo.cs
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.csproj.CoreCompileInputs.cache
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.dll
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\refint\DesafioPOO.dll
+c:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.pdb
+C:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\DesafioPOO.genruntimeconfig.cache
+C:\Users\Frilto's F. Machine\Desktop\DIO\Fullstack\trilha-net-poo-desafio-main\trilha-net-poo-desafio-main\obj\Debug\net6.0\ref\DesafioPOO.dll
